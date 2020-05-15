@@ -25,4 +25,4 @@ Other:
 
 ## reactWebClicker
 
-I worked on this project with another student and I created almost all of the logic and a bit of the user interface.
+I worked on this project with another student and I created most of the logic and some of the user interface.
