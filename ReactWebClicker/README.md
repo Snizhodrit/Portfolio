@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an application where you can register and log in and then click a button to increase your score. All user scores can be seen.
 
 
 ## Before running

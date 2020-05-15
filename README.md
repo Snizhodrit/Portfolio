@@ -22,3 +22,7 @@ PlayerData:
 Other:  
 * BubbleGame  
 * Game 
+
+## reactWebClicker
+
+I worked on this project with another student and I created almost all of the logic and a bit of the user interface.
