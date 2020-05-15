@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.trifonov463467.MainActivity">
+    <item
+        android:id="@+id/add_album"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_add_element"/>
+</menu>
