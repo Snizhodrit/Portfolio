@@ -23,6 +23,6 @@ Other:
 * BubbleGame  
 * Game 
 
-## reactWebClicker
+## ReactWebClicker
 
 I worked on this project with another student and I created most of the logic and some of the user interface.
