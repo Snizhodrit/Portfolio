@@ -1,8 +1,7 @@
-import React, {Component} from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import './style.scss';
 import Ripples from 'react-ripples';
-import {Router, Route} from "react-router";
 
 
 
