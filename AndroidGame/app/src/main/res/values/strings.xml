@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bubble Tea</string>
+    <string name="tvRanking">Ranking</string>
+    <string name="buttonPlayAgain">Play again</string>
+    <string name="buttonHome">Home</string>
+    <string name="tvGameOver">Game over</string>
+    <string name="tvYourScore">Your score is:</string>
+    <string name="tvActualScore">Actual score</string>
+    <string name="buttonRanking">Ranking</string>
+    <string name="tvPlayerName">Player name</string>
+    <string name="tvPlayerScore">Player score</string>
+    <string name="etScore">Players score</string>
+</resources>
