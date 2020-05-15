@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Before running
 
-Before using the application make sure to run "node apiserver.js" (make sure you are in *src*). This will take care of the connection between the app and the database.
+Before using the application make sure to run "npm install". After that run "node apiserver.js" (make sure you are in *src*) - this will take care of the connection between the app and the database.
 
 ## Available Scripts
 
@@ -11,7 +11,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.<br />
+Runs the app.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
